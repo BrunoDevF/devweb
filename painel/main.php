@@ -27,7 +27,7 @@
 			<div class="avatar-usuario">
 				<i class="fa fa-user"></i>
 			</div><!--avatar-usuario-->
-		<?php }else{ ?>
+		<?php } else{ ?>
 			<div class="imagem-usuario">
 				<img src="<?php echo INCLUDE_PATH_PAINEL ?>uploads/<?php echo $_SESSION['img']; ?>" />
 			</div><!--avatar-usuario-->
