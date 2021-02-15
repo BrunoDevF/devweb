@@ -6,6 +6,7 @@
 	$infoSite->execute();
 	$infoSite = $infoSite->fetch();
 ?>
+
 <!DOCTYPE html>
 <html>
 <head>
